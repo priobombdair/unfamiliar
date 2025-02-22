@@ -2168,7 +2168,7 @@
               },
               {
                 "min_level": 7,
-                "max_level": 7,
+                "max_level": 9,
                 "species": "SPECIES_WOOBAT"
               },
               {
@@ -2177,13 +2177,13 @@
                 "species": "SPECIES_NACLI"
               },
               {
-                "min_level": 7,
-                "max_level": 7,
+                "min_level": 9,
+                "max_level": 9,
                 "species": "SPECIES_CUBCHOO"
               },
               {
-                "min_level": 9,
-                "max_level": 9,
+                "min_level": 10,
+                "max_level": 10,
                 "species": "SPECIES_NOIBAT"
               },
               {
@@ -2217,8 +2217,8 @@
                 "species": "SPECIES_WOOBAT"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 10,
+                "max_level": 10,
                 "species": "SPECIES_CUBCHOO"
               },
               {
@@ -2232,9 +2232,9 @@
                 "species": "SPECIES_TEDDIURSA"
               },
               {
-                "min_level": 9,
-                "max_level": 9,
-                "species": "SPECIES_SWINUB"
+                "min_level": 10,
+                "max_level": 10,
+                "species": "SPECIES_NOIBAT"
               },
               {
                 "min_level": 9,
